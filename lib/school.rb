@@ -9,10 +9,6 @@ class School
     @school
   end
 
-  def add_student(student, grade)
-    @student= student
-    @grade= grade
-    roster
-  end
+
 
 end
