@@ -2,12 +2,12 @@ class School
 
 
   roster= {}
-  
-  def initialize(school)
-    @school = school
+
+  def initialize(school_name)
+    @school_name = school_name
   end
-  def school
-    @school
+  def school_name
+    @school_name
   end
 
 
